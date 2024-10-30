@@ -383,6 +383,15 @@ body {
   height: 150px;
 }
 
+.full-container p {
+  color: white;
+  margin-top: 20px;
+}
+
+.full-container a {
+  color: white;
+}
+
 .to-top {
   text-align: center;
   margin-top: 20px;
